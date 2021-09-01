@@ -1,1 +1,2 @@
-# INFO250-Final
+# Abstract
+# This project explores the relationship between college majors and their salaries. The dataset contains 50 different majors and the salaries of each of them. There is a column that gives the starting median salary for each major. There is also a column that gives the mid-career median salary for each major. Then, percent change is calculated to see how much more money the majors make from the start of their careers to the mid-points. Lastly, there are percentiles for each major. The 10th percentile means there 90% of people make a better salary. 25th means 75% make more, 75th means 25% make more, and 90th means only 10% make more. The higher percentile you are in the more money you make because you are near the top of your field. 
